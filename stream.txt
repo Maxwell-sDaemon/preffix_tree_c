@@ -1,0 +1,2 @@
+(Ben,bir,$(ariyim,$)(inegim,$)(tavugum,$))
+(pandemic,$(definition,$)(vs,epidemic,$)(in,history,$))
